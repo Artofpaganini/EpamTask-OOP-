@@ -1,0 +1,120 @@
+2020-03-19 14:26:45 INFO  Shop: - Shop filled  by each  types of ammunitions
+2020-03-19 14:26:45 INFO  ActionWithAmmunition: - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:26:53 WARN  ActionWithAmmunition: - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:26:57 INFO  ActionWithAmmunition: - Input indexNumber is in the range of list size 
+2020-03-19 14:26:59 INFO  ActionWithAmmunition: - Customer want's get more items
+2020-03-19 14:27:00 INFO  ActionWithAmmunition: - Input indexNumber is in the range of list size 
+2020-03-19 14:27:06 WARN  ActionWithAmmunition: - Customer finished own list with  this  type of items
+2020-03-19 14:27:06 INFO  ActionWithAmmunition: - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:27:08 INFO  ActionWithAmmunition: - Input indexNumber is in the range of list size 
+2020-03-19 14:27:17 WARN  ActionWithAmmunition: - Customer finished own list with  this  type of items
+2020-03-19 14:27:17 INFO  ActionWithAmmunition: - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:27:27 INFO  ActionWithAmmunition: - List isn't interesting 
+2020-03-19 14:27:27 INFO  ActionWithAmmunition: - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:27:32 INFO  ActionWithAmmunition: - Input indexNumber is in the range of list size 
+2020-03-19 14:27:34 WARN  ActionWithAmmunition: - Customer finished own list with  this  type of items
+2020-03-19 14:27:34 INFO  ActionWithAmmunition: - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Input indexNumber is in the range of list size 
+2020-03-19 14:27:35 WARN  ActionWithAmmunition: - Customer finished own list with  this  type of items
+2020-03-19 14:27:35 INFO  Customer: - Customer chosen 1 or more each type of items and assign this  items on this  list 
+2020-03-19 14:27:35 INFO  CustomerActions: - The total cost of the kit chosen
+2020-03-19 14:27:35 INFO  CustomerActions: - Calculated costs for  list type of ammunition 
+2020-03-19 14:27:35 INFO  CustomerActions: - Calculated costs for  list type of ammunition 
+2020-03-19 14:27:35 INFO  CustomerActions: - Calculated costs for  list type of ammunition 
+2020-03-19 14:27:35 INFO  CustomerActions: - Calculated costs for  list type of ammunition 
+2020-03-19 14:27:35 INFO  CustomerActions: - Calculated costs for  list type of ammunition 
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Sorted items of  each list, by weight
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Sorted items of  each list, by weight
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Sorted items of  each list, by weight
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Sorted items of  each list, by weight
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Sorted items of  each list, by weight
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Set range price / find  items which prices  are in that range
+2020-03-19 14:27:35 INFO  ActionWithAmmunition: - Verification was passed, list isn't  empty 
+2020-03-19 14:27:48 WARN  ActionWithAmmunition: - Min/Max price verification was not passed(Incorrect values)
+2020-03-19 14:27:56 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:27:56 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:27:56 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:27:56 INFO  ActionWithAmmunition: - Set range price / find  items which prices  are in that range
+2020-03-19 14:27:56 INFO  ActionWithAmmunition: - Verification was passed, list isn't  empty 
+2020-03-19 14:28:02 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:28:02 WARN  ActionWithAmmunition: - Don't have items in this price range 
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Set range price / find  items which prices  are in that range
+2020-03-19 14:28:08 INFO  ActionWithAmmunition: - Verification was passed, list isn't  empty 
+2020-03-19 14:28:09 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:28:09 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:09 INFO  ActionWithAmmunition: - Set range price / find  items which prices  are in that range
+2020-03-19 14:28:09 INFO  ActionWithAmmunition: - Verification was passed, list isn't  empty 
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Set range price / find  items which prices  are in that range
+2020-03-19 14:28:11 INFO  ActionWithAmmunition: - Verification was passed, list isn't  empty 
+2020-03-19 14:28:13 INFO  ActionWithAmmunition: - Min/Max price verification was passed
+2020-03-19 14:28:13 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:28:13 INFO  ActionWithAmmunition: - Item price is  min/max price range 
+2020-03-19 14:30:13 INFO  Shop: 27 - Shop filled  by each  types of ammunitions
+2020-03-19 14:30:13 INFO  ActionWithAmmunition: 232 - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:30:18 INFO  ActionWithAmmunition: 251 - Input indexNumber is in the range of list size 
+2020-03-19 14:30:19 INFO  ActionWithAmmunition: 259 - Customer want's get more items
+2020-03-19 14:30:21 INFO  ActionWithAmmunition: 247 - List isn't interesting 
+2020-03-19 14:30:21 INFO  ActionWithAmmunition: 232 - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:30:22 INFO  ActionWithAmmunition: 251 - Input indexNumber is in the range of list size 
+2020-03-19 14:30:22 WARN  ActionWithAmmunition: 263 - Customer finished own list with  this  type of items
+2020-03-19 14:30:22 INFO  ActionWithAmmunition: 232 - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:30:23 INFO  ActionWithAmmunition: 251 - Input indexNumber is in the range of list size 
+2020-03-19 14:30:24 WARN  ActionWithAmmunition: 263 - Customer finished own list with  this  type of items
+2020-03-19 14:30:24 INFO  ActionWithAmmunition: 232 - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:30:24 INFO  ActionWithAmmunition: 251 - Input indexNumber is in the range of list size 
+2020-03-19 14:30:26 WARN  ActionWithAmmunition: 263 - Customer finished own list with  this  type of items
+2020-03-19 14:30:26 INFO  ActionWithAmmunition: 232 - Created own items list/ started to choose  items which are necessary,from shoplist/ added this items  in own list
+2020-03-19 14:30:29 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:30 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:30 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:31 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:32 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:33 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:36 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:38 WARN  ActionWithAmmunition: 268 - Input indexNumber is not in the range of list size(Incorrect index Number)
+2020-03-19 14:30:42 INFO  ActionWithAmmunition: 251 - Input indexNumber is in the range of list size 
+2020-03-19 14:30:43 WARN  ActionWithAmmunition: 263 - Customer finished own list with  this  type of items
+2020-03-19 14:30:43 INFO  Customer: 28 - Customer chosen 1 or more each type of items and assign this  items on this  list 
+2020-03-19 14:30:43 INFO  CustomerActions: 37 - The total cost of the kit chosen
+2020-03-19 14:30:43 INFO  CustomerActions: 27 - Calculated costs for  list type of ammunition 
+2020-03-19 14:30:43 INFO  CustomerActions: 27 - Calculated costs for  list type of ammunition 
+2020-03-19 14:30:43 INFO  CustomerActions: 27 - Calculated costs for  list type of ammunition 
+2020-03-19 14:30:43 INFO  CustomerActions: 27 - Calculated costs for  list type of ammunition 
+2020-03-19 14:30:43 INFO  CustomerActions: 27 - Calculated costs for  list type of ammunition 
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 288 - Sorted items of  each list, by weight
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 288 - Sorted items of  each list, by weight
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 288 - Sorted items of  each list, by weight
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 288 - Sorted items of  each list, by weight
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 288 - Sorted items of  each list, by weight
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 383 - Set range price / find  items which prices  are in that range
+2020-03-19 14:30:43 INFO  ActionWithAmmunition: 390 - Verification was passed, list isn't  empty 
+2020-03-19 14:30:51 INFO  ActionWithAmmunition: 398 - Min/Max price verification was passed
+2020-03-19 14:30:51 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:51 INFO  ActionWithAmmunition: 383 - Set range price / find  items which prices  are in that range
+2020-03-19 14:30:51 INFO  ActionWithAmmunition: 390 - Verification was passed, list isn't  empty 
+2020-03-19 14:30:52 INFO  ActionWithAmmunition: 398 - Min/Max price verification was passed
+2020-03-19 14:30:52 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:52 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:52 INFO  ActionWithAmmunition: 383 - Set range price / find  items which prices  are in that range
+2020-03-19 14:30:52 INFO  ActionWithAmmunition: 390 - Verification was passed, list isn't  empty 
+2020-03-19 14:30:53 INFO  ActionWithAmmunition: 398 - Min/Max price verification was passed
+2020-03-19 14:30:53 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:53 INFO  ActionWithAmmunition: 383 - Set range price / find  items which prices  are in that range
+2020-03-19 14:30:53 INFO  ActionWithAmmunition: 390 - Verification was passed, list isn't  empty 
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 398 - Min/Max price verification was passed
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 383 - Set range price / find  items which prices  are in that range
+2020-03-19 14:30:54 INFO  ActionWithAmmunition: 390 - Verification was passed, list isn't  empty 
+2020-03-19 14:30:56 INFO  ActionWithAmmunition: 398 - Min/Max price verification was passed
+2020-03-19 14:30:56 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
+2020-03-19 14:30:56 INFO  ActionWithAmmunition: 403 - Item price is  min/max price range 
